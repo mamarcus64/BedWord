@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/BedWord/static/js/main.7e05979b.chunk.js",
-    "main.js.map": "/BedWord/static/js/main.7e05979b.chunk.js.map",
+    "main.js": "/BedWord/static/js/main.b63030da.chunk.js",
+    "main.js.map": "/BedWord/static/js/main.b63030da.chunk.js.map",
     "runtime-main.js": "/BedWord/static/js/runtime-main.14fb0c97.js",
     "runtime-main.js.map": "/BedWord/static/js/runtime-main.14fb0c97.js.map",
     "static/js/2.253a85d6.chunk.js": "/BedWord/static/js/2.253a85d6.chunk.js",
@@ -13,6 +13,6 @@
   "entrypoints": [
     "static/js/runtime-main.14fb0c97.js",
     "static/js/2.253a85d6.chunk.js",
-    "static/js/main.7e05979b.chunk.js"
+    "static/js/main.b63030da.chunk.js"
   ]
 }
