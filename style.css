@@ -43,6 +43,16 @@ body {
 	width: 350px;
 }
 
+.form_element input[type=password] {
+	border-radius: 5px;
+	border: 2px #000 solid;
+	margin-top: 5px;
+	background-color: #FFF;
+	height: 40px;
+	font-size: 1.05em;
+	width: 350px;
+}
+
 .form_element input[type=file] {
 	margin-top: 5px;
 	height: 40px;
