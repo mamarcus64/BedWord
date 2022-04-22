@@ -33,6 +33,10 @@ body {
 	color: #000;
 }
 
+.form_element a {
+	font-size: 1em;
+}
+
 .form_element input[type=text] {
 	border-radius: 5px;
 	border: 2px #000 solid;
@@ -49,7 +53,7 @@ body {
 	margin-top: 5px;
 	background-color: #FFF;
 	height: 40px;
-	font-size: 1.05em;
+	font-size: 1.3em;
 	width: 350px;
 }
 
